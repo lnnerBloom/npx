@@ -4,7 +4,7 @@ function _0x424e() {
         return _0x1c96d2;
     };
     return _0x424e();
-}
+} 
 
 function _0x5d4b(_0x13badf, _0x28126c) {
     const _0x55b6ea = _0x424e();
