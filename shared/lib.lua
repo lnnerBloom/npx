@@ -24,7 +24,7 @@ local function getProxy(pK)
             end)
 
             return p
-        end,
+        end, 
 
         __index = function (t, k)
             return getProxy((pK and pK .. "|" or "") .. k)
