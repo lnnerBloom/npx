@@ -2,7 +2,7 @@ fx_version "cerulean"
 
 games { "gta5" }
 
-description "uhHoneyy NPX"
+description "uhHoneyy NPX "
 
 author "uhHoneyy#6541"
 
